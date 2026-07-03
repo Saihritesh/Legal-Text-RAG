@@ -1,4 +1,4 @@
-from langchain_ollama import ChatOllama
+'''from langchain_ollama import ChatOllama
 
 # Initialize the local model
 llm = ChatOllama(
@@ -14,4 +14,6 @@ Explain what Few Shot Learning is in simple terms.
 # Invoke the model
 response = llm.invoke(prompt)
 
-print(response.content)
+print(response.content)'''
+for i in range(1 , 2) :
+    print(i)
